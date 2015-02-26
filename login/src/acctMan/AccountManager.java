@@ -6,7 +6,7 @@ public class AccountManager {
 	private HashMap<String, String> users;
 	
 	/**
-	 * Initializes with default users. foo
+	 * Initializes with default users. foobar
 	 */
 	public AccountManager(){
 		users = new HashMap<String, String>();
