@@ -8,7 +8,6 @@ public class AccountManager {
 
 	/**foo
 	 * Initializes with default users. foo
->>>>>>> SecondBranch
 	 */
 	public AccountManager(){
 		users = new HashMap<String, String>();
