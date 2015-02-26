@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class AccountManager {
 	private HashMap<String, String> users;
 	
-	/**
+	/**foo
 	 * Initializes with default users. foo
 	 */
 	public AccountManager(){
